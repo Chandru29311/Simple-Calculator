@@ -1,2 +1,2 @@
 # Simple-Calculator
-Web Applicaion
+Web Application
